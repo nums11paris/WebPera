@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>PERA Official Website</h1>
+
+<h3>This is the new website of PERA FC</h6>
+
+<p>Here we will tell the story of the PERA.</p>
+
+<h4>List of members</h4>
+
+<uL>
+	<li>Emmanuel<a href="https://www.linkedin.com/in/emmanuel-chaslin-1923b084"<strong>(c)</strong></a></li>
+<figure>
+<img src="https://media.licdn.com/dms/image/C5603AQFmszxqlFTb4g/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=LHyDjlIzhU78mC50gvMg8jdL-qxGG9bU7gvlzhCo-fc" alt="photo of EC" title ="Photo of EC">
+<figcaption>Emmanuel Chaslin, founder and captain of Pera</figcaption>
+</figure>
+	<li>Edhem</li>
+	<li>Paul</li>
+	<li>Nadjib</li>
+	<li>Louis-Arthur</li>
+	<li>Charles<strong>(sub)</strong></li>
+	<li>Hassan<strong>(sub)</strong></li>
+	<li>Pierrot<strong>(sub)</strong></li>
+	<li>Zaré<strong>(sub)</strong></li>
+<ul>
+
+
+<img src="https://static4.pagesjaunes.fr/media/ugc/restaurant_pera_07505600_164415917" alt="Photo of the Restaurant Le Pera where Pera FC was founded title="Le Restaurant Le Pera">
+
+
+
+
+</body>
+</html>
